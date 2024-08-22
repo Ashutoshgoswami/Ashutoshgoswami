@@ -2,19 +2,16 @@
 <h3 align="center">A passionate Machine Learning Engineer</h3>
 
 - 🌱 I’m currently learning **Advanced ML techniques, NLP, Reinforcement Learning, etc.**
-- 💼 I’m currently working on **NLP-based systems, weather models, and STPI Chunoti Challenges.**
+- 💼 I’m currently working on **NLP-based systems, weather models.**
 - 💬 Ask me about **Machine Learning, NLP, Computer Vision, Model Deployment, and more.**
 - 📫 How to reach me **ashutoshgoswami852@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/ashutosh-goswami/" target="_blank" rel="noreferrer">
+  <a href="[https://www.linkedin.com/in/ashutosh-goswami/](https://www.linkedin.com/in/ashutosh-goswami-2a268422b/)" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
   </a>
-  <a href="https://twitter.com/Ashutosh_ML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="twitter" width="40" height="40"/>
-  </a>
-  <!-- Add other platforms you use -->
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
