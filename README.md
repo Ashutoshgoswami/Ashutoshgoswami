@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Goswami</h1>
-<h3 align="center">A passionate Machine Learning Engineer</h3>
+<h3 align="center">A passionate Data Scientist and AI/ML Engineer</h3>
 
 - 🌱 I’m currently learning **Advanced ML techniques, NLP, Reinforcement Learning, etc.**
 - 💼 I’m currently working on **NLP-based systems, weather models.**
